@@ -2,7 +2,10 @@
 
 Landlord is provided with two options one is accepting
 the request and permitting the tenant to modify the
-address and the other is rejecting the request.
+address and the other is rejecting the request.![1](https://user-images.githubusercontent.com/93322025/139536537-1b0fe29e-2923-49df-b608-99b2f22ed9a7.png)
+![2](https://user-images.githubusercontent.com/93322025/139536539-91b362f3-fae4-47a4-9302-dbe1a0963405.png)
+![3](https://user-images.githubusercontent.com/93322025/139536541-0089e1d6-ad46-4dc8-9145-5272647b0dd9.png)
+
 • When landlord accepts the request the address gets
 displayed on tenant’s web application and the address
 is also stored in Aadhaar website for further
