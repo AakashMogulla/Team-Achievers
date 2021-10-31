@@ -13,7 +13,7 @@ is also stored in Aadhaar website for further
 verification.
 • If landlord rejects the request the process is
 terminated and tenant cannot update their address
-[18:15, 10/30/2021] Varshitha Mlr: Tenant is given access to make minor changes like
+Tenant is given access to make minor changes like
 adding landmarks etc. but they are not permitted to
 make major changes.
 • Aadhaar website tracks the address of the landlord that
