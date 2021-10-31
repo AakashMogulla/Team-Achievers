@@ -11,14 +11,17 @@ address and the other is rejecting the request.![1](https://user-images.githubus
 displayed on tenant’s web application and the address
 is also stored in Aadhaar website for further
 verification.
+
 • If landlord rejects the request the process is
 terminated and tenant cannot update their address
 Tenant is given access to make minor changes like
 adding landmarks etc. but they are not permitted to
 make major changes.
+
 • Aadhaar website tracks the address of the landlord that
 was stored and the tenant’s modified address using GPS
 tracking.
+
 • If both the addresses are similar only then the address
 update process will continue otherwise the process is
 terminated .
